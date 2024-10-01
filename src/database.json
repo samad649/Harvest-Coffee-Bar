@@ -1,0 +1,10 @@
+{
+    "dev": {
+      "driver": "pg",
+      "user": "csce315_906_03user",
+      "host": "jdbc:postgresql://csce-315-db.engr.tamu.edu/csce315_906_03db",
+      "database": "csce315_906_03db",
+      "password": "biU0cQD3",
+      "port":5000
+    }
+}
