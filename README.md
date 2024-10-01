@@ -1,70 +1,159 @@
-# Getting Started with Create React App
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/apcvbojB)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12525634&assignment_repo_type=AssignmentRepo)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Meeting Documentation
 
-In the project directory, you can run:
+## Sprint 1
 
-### `npm start`
+### Sprint Planning Meeting
+Timestamp: 10/26/2023 5:35pm-6:35pm
+Minutes and Agenda in Meeting Documentation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Daily Scrum 1
+Timestamp: 10/27/2023 9:15am-9:30am
+Location: Zachry
+Attendance: Min, Chandler, Dallas
+Fist of five average: 5
+Summary: No one has started any of their tasks. Everyone seems comfortable performing their assigned tasks before the sprint deadline. The main concern is the hosting and how they will interact with the database.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Daily Scrum 2
+Timestamp: 10/30/2023 3:08pm-3:13pm
+Location: Zachry
+Attendance: Min, Chandler, Dallas, Samad
+Fist of five average: 2
+Summary: No one achieved significant progress on their tasks over the busy weekend. Our original plan and understanding of the Sprint 1 goals had to be recalibrated due to the fixed deadline. Now everyone is beginning to work in depth on their tasks. 
 
-### `npm test`
+### Daily Scrum 3
+Timestamp: 10/31/2023 5:49pm–5:54pm
+Location: Zachry
+Attendance: Min, Chandler, Dallas, Samad
+Fist of five average: 2
+Summary: Yesterday, everyone started planning out our plan to tackle the rest of our sprint goals and began working on their most important assigned story tasks. Today, everyone is finishing up the most important assigned story tasks. The biggest roadblock is going to be our limited time before the sprint is due and learning how to work with the new backend framework along with the new environment setting.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Retrospective Meeting
+Meeting Time: 11/2/2023 5:40-6:10
+Location: Online (Discord)
+Minutes and Agenda in Meeting Documentation
 
-### `npm run build`
+## Sprint 2
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Sprint Planning Meeting
+Timestamp: 11/3/2023 5:30pm-6:30pm
+Minutes and Agenda in Meeting Documentation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Daily Scrum 1
+Timestamp: 9:38 – 9:46 11/8/23
+Attendance: Min, Chandler, Dallas, Samad
+Location: Zachry
+Fist of five average: 4
+Summary: The only goal that has been completed since the completion of sprint 1 has been the hosting of the backend on render, otherwise no one has completed any goals since the completion of sprint 1, though progress is being made on the sprint 2 goals now.
+Completed Tasks
+-	Backend Hosted successfully on render, api calls from hosted frontend work
+Assigned Tasks
+-	Chandler: fix add item bug, modify items
+-	Samad: Remove items
+-	Min: Finish Cashier order
+-	Dallas: Fix backend automatic deployment, research Oauth api for login
 
-### `npm run eject`
+### Daily Scrum 2
+Timestamp: 9:50 - 10:00 11/10/23
+Attendance: Min, Chandler, Dallas
+Location: Zachry
+Fist of five average: 5
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Summary: Chandler still steadily working on progress for modify items. Min finished his high priority tasks for the sprint. Dallas finished high priority tasks for the sprint. Samad status unknown.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Completed Tasks
+- Fixed and added functionality to cashier for remove, checkout (Min)
+- Connected to weather API (Min)
+- Fixed the backend auto updating on Render (Dallas)
+Assigned Tasks:
+-	Chandler: Modify items, Remove items
+-	Samad: Fix add item frontend/bug
+-	Min: Menu Bug Fix
+-	Dallas: Implement OAuth Google Login
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Daily Scrum 3
+Timestamp: 9:30 - 10:39 11/13/23
+Attendance: Min, Chandler, Dallas, Samad
+Location: Zachry
+Fist of five average: 4
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Summary: Steady progress made on some of core user stories for this sprint. Everyone seems confident in completing all the sprint stories except for maybe google translate.
 
-## Learn More
+Completed Tasks
+- Finished add item frontend and fixed bug (Samad)
+- Modifying Item Price and Name (Chandler)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Assigned Tasks:
+- OAuth Google Login (Dallas)
+- Viewing Inventory (Samad)
+- Modifying Recipe, and removing items (Chandler)
+- General Debugging (Min)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Retrospective Meeting
+Meeting Time: 11/21/2023 10:00-10:30am
+Location: Online (Discord)
+Minutes and Agenda in Meeting Documentation
 
-### Code Splitting
+## Sprint 3
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Sprint Planning Meeting
+Timestamp: 11/27/2023 3:00pm-3:35pm
 
-### Analyzing the Bundle Size
+### Daily Scrum 1
+Timestamp: 3:15 - 3:22 11/29/23
+Attendance: Min, Chandler, Dallas, Samad
+Location: Zachry
+Fist of five average: 3
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Summary: We just recently finished the excess panel report. Samad has been working on the reports. Chandler has been working on the user management. Chandler is concerned about being able to complete the designs overhaul. Min is working on the manager management. Dallas has made good progress on the google login
 
-### Making a Progressive Web App
+Completed Tasks
+- Changed the backend to accomodate new api calls (Dallas)
+- Made checkLogin backend api call (Dallas)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Assigned Tasks:
+-	Chandler: User management
+-	Samad: Excess Report then other Manager reports
+-	Min: Order Management 
+-	Dallas: put employee pages behind google Login
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Daily Scrum 2
+Timestamp: 9:20 - 9:27 12/1/23
+Attendance: Min, Chandler, Dallas
+Location: Zachry
+Fist of five average: 4
 
-### Deployment
+Summary: Dallas finished half of the google login stuff. Chandler finished the user management. Min still working on the order management and customer order. The consistent biggest roadblock for everyone is that everyone has a ton of stuff to do for other classes that makes finding time to work on this project hard.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Completed Tasks
+- User Management page done (Chandler)
 
-### `npm run build` fails to minify
+Assigned Tasks:
+-	Chandler: Redesigning the website layout
+-	Samad: Excess Report then other Manager reports
+-	Min: Order Management and customer order
+-	Dallas: Google Translate button, Finish locking employee pages behind google Login
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Daily Scrum 3
+Timestamp: 6:09 - 6:14 12/5/23
+Attendance: Min, Chandler, Dallas, Samad
+Fist of five vote: 5
+
+Summary: Everyone is mostly complete with all their tasks, just need to put the final touches on everything before submitting it.
+
+Completed Tasks:
+- Site redesign (Chandler)
+- Order Management (Min)
+- Customer Order (Min)
+- Menu Board (Min)
+- Functionality of reports (Samad)
+
+Assigned Tasks:
+- Documentation (everyone)
+- Putting everything together (everyone)
+- Make everything look better (everyone)
